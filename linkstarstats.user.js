@@ -22,7 +22,7 @@ function wrapper(plugin_info) {
 	if(typeof window.plugin !== 'function') window.plugin = function() {};
 	plugin_info.buildName = 'hurqalia22';
 	plugin_info.dateTimeVersion = '20160702.002';
-	plugin_info.pluginId = 'ontheroad';
+	plugin_info.pluginId = 'linkstarstats';
 
 	// PLUGIN START ////////////////////////////////////////////////////////
 
